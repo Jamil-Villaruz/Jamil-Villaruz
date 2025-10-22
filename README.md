@@ -11,7 +11,14 @@ With experience in **React, WordPress, Webflow, and LearnWorlds**, I create resp
 
 🛠 **Tech Stack**
 HTML • CSS • JavaScript (ES6+) • React • PHP • MySQL  
-WordPress • Webflow • LearnWorlds • Figma • Photoshop • Git  
+WordPress • Webflow • LearnWorlds • Figma • Photoshop • Git
+
+📜 **Certifications**
+The Web Developer Bootcamp 2025 (Udemy) – Completed September 2025
+Comprehensive web development course covering front-end and back-end technologies.
+
+AI Trainer Certification (Conversation Design Institute) - Completed June 2025
+Conversation Design, NLP Training, Intent Mapping, Dialogue Flow Optimization, AI Content Creation
 
 🌱 **Currently Learning**
 Advanced React, Next.js, and modern UI animations  
