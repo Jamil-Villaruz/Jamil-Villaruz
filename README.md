@@ -10,10 +10,12 @@ With experience in **React, WordPress, Webflow, and LearnWorlds**, I create resp
 - Collaborate on UI/UX improvements to boost user engagement  
 
 🛠 **Tech Stack**
+
 HTML • CSS • JavaScript (ES6+) • React • PHP • MySQL  
 WordPress • Webflow • LearnWorlds • Figma • Photoshop • Git
 
 📜 **Certifications**
+
 The Web Developer Bootcamp 2025 (Udemy) – Completed September 2025
 Comprehensive web development course covering front-end and back-end technologies.
 
